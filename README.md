@@ -11,6 +11,7 @@
 	* [YouTube Downloader](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-youtube-downloader)
 	* [Install RClone](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-rclone)
 	* [RClone Backup & Purge Google Drive to Local](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#rclone-backup--purge-google-drive-to-local)
+	* [Install Open Media Vault](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-open-media-vault)
 
 ### Initial Setup
 
