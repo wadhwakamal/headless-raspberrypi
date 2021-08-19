@@ -46,5 +46,5 @@ SMB
   - It will create a path with sharename assigned to it
   - Save changes
 - In the Settings tab enable SMB, save changes
-- Open finder and connect to the smb://raspberrypi.local/ with username and password created in the Users
+- Open finder and connect to the [smb://raspberrypi.local/](smb://raspberrypi.local/) with username and password created in the Users
 
