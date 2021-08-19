@@ -1,5 +1,7 @@
 # Setting up a headless Raspberry Pi
 
+![headless Raspberry Pi](https://github.com/wadhwakamal/headless-raspberrypi/raw/main/assets/repo-img.png?raw=true)
+
 ## Table of Contents  
 * [Initial Setup](#setting-up-a-headless-raspberry-pi)  
 * [Remove Bloatware on the Raspberry Pi](#remove-bloatware-on-the-raspberry-pi)  
@@ -100,3 +102,8 @@ Install node development tools 
 ```
 sudo apt install build-essential
 ```
+
+<br/>
+
+##### Attribution
+<a href='https://www.freepik.com/vectors/abstract'>Abstract vector created by macrovector - www.freepik.com</a>
