@@ -9,11 +9,11 @@
 * [Install git](https://github.com/wadhwakamal/headless-raspberrypi#install-git)  
 * [Install Python 3](https://github.com/wadhwakamal/headless-raspberrypi#install-python-3)  
 * [Install Node.js and NPM using NVM](https://github.com/wadhwakamal/headless-raspberrypi#install-nodejs-and-npm-using-nvm)  
-* [Install Scripts](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md)  
-	* [YouTube Downloader](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-youtube-downloader)
-	* [Install RClone](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-rclone)
-	* [RClone Backup & Purge Google Drive to Local](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#rclone-backup--purge-google-drive-to-local)
-	* [Install Open Media Vault](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts/Scripts.md#install-open-media-vault)
+* [Install Scripts](https://github.com/wadhwakamal/headless-raspberrypi/tree/main/scripts#scripts)  
+	* [YouTube Downloader](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-youtube-downloader)
+	* [Install RClone](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-rclone)
+	* [RClone Backup & Purge Google Drive to Local](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#rclone-backup--purge-google-drive-to-local)
+	* [Install Open Media Vault](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-open-media-vault)
 
 ### Initial Setup
 
