@@ -14,6 +14,7 @@
 	* [Install RClone](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-rclone)
 	* [RClone Backup & Purge Google Drive to Local](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#rclone-backup--purge-google-drive-to-local)
 	* [Install Open Media Vault](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-open-media-vault)
+	* [Backup Pi to Google Drive](https://github.com/wadhwakamal/headless-raspberrypi/tree/main/scripts/backup#automatic-backup-of-raspberry-pi-to-any-cloud)
 
 ### Initial Setup
 
