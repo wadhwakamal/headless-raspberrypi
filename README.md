@@ -51,20 +51,24 @@ network={
 <br/>
 
 ## Remove Bloatware on the Raspberry Pi
+`# https://github.com/JoaquimLey/raspberrypi-headless-setup`
 ```
-# https://github.com/JoaquimLey/raspberrypi-headless-setup
 sudo curl -fsSL https://raw.githubusercontent.com/JoaquimLey/raspberrypi-headless-setup/master/pi_bloat_remove.sh | sudo bash
 ```
 
 <br/>
 
 ## Update packages to the latest version
-`sudo apt-get update && sudo apt full-upgrade`
+```
+sudo apt-get update && sudo apt full-upgrade
+```
 
 <br/>
 
 ## Install git
-`sudo apt-get install git`
+```
+sudo apt-get install git
+```
 
 <br/>
 
@@ -75,6 +79,8 @@ sudo curl -fsSL https://raw.githubusercontent.com/JoaquimLey/raspberrypi-headles
 ## Install Python 3
 ```
 sudo apt update
+```
+```
 sudo apt install python3 idle3
 ```
 <br/>
@@ -82,9 +88,8 @@ sudo apt install python3 idle3
 ## Install Node.js and NPM using NVM
 
 NVM (Node Version Manager) is a bash script that allows you to install and manage multiple Node.js versions. Use this method if you need to install a specific Node.js version or if you need to have more than one Node.js versions installed on your Raspberry Pi.
-
+`# Use the latest from here --> https://github.com/nvm-sh/nvm`
 ```
-# Use the latest from here --> https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38/install.sh | bash
 ```
 
@@ -95,12 +100,21 @@ The installation script will clone the nvm repository from Github to the ~/.n
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 ```
+<br/>
 
-Terminate your shell for bash to refresh
+**source shell or Terminate your shell for shell to refresh**
+
+<br/>
 
 ```
 nvm --version
+```
+
+```
 nvm install node
+```
+
+```
 node --version
 ```
 
