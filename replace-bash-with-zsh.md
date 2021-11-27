@@ -44,7 +44,7 @@ wget 'https://raw.githubusercontent.com/rupa/z/master/z.sh' -O ~/Shell/z.sh
 mv ~/.zshrc ~/.zshrc_backup
 ```
 ```
-wget 'https://raw.githubusercontent.com/wadhwakamal/zshrc/main/.zshrc' -O ~/.zshrc
+wget 'https://raw.githubusercontent.com/wadhwakamal/zshrc/main/raspberrypi/.zshrc' -O ~/.zshrc
 ```
 ```
 nano ~/.zshrc
