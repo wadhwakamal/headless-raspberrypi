@@ -38,15 +38,17 @@ network={
 }
 ```
 
-3. Boot the thing.
-4. ssh pi@raspberrypi.local; the default password is raspberry
-5. sudo raspi-config, change the hostname and pi user password,  in system settings and then,
-	1. Select “Localisation Options”
-	2. Change Locale as appropriate
-	3. Select “Change Timezone” and set your timezone
-	4. Advanced options
-	5. Select first option - A1 Expand File System
-	6. then reboot.
+3. Boot rPi.
+4. `ssh pi@raspberrypi.local` -- default password is `raspberry`
+5. `sudo raspi-config` in system settings,
+	1. Update hostname and password
+	2. Select “Localisation Options”
+	3. Change Locale as appropriate
+	4. Select “Change Timezone” and set your timezone
+	5. Advanced options
+	6. Select first option - A1 Expand File System
+	7. Update config
+	8. then reboot.
 
 <br/>
 
