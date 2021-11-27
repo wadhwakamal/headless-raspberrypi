@@ -6,7 +6,8 @@
 * [Initial Setup](#setting-up-a-headless-raspberry-pi)  
 * [Remove Bloatware on the Raspberry Pi](#remove-bloatware-on-the-raspberry-pi)  
 * [Update packages to the latest version](https://github.com/wadhwakamal/headless-raspberrypi#update-packages-to-the-latest-version)  
-* [Install git](https://github.com/wadhwakamal/headless-raspberrypi#install-git)  
+* [Install git](https://github.com/wadhwakamal/headless-raspberrypi#install-git)
+* [Replace bash with zsh](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/replace-bash-with-zsh.md)  
 * [Install Python 3](https://github.com/wadhwakamal/headless-raspberrypi#install-python-3)  
 * [Install Node.js and NPM using NVM](https://github.com/wadhwakamal/headless-raspberrypi#install-nodejs-and-npm-using-nvm)  
 * [Install Scripts](https://github.com/wadhwakamal/headless-raspberrypi/tree/main/scripts#scripts)  
@@ -64,6 +65,10 @@ sudo curl -fsSL https://raw.githubusercontent.com/JoaquimLey/raspberrypi-headles
 
 ## Install git
 `sudo apt-get install git`
+
+<br/>
+
+## [Replace bash with zsh](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/replace-bash-with-zsh.md)
 
 <br/>
 
