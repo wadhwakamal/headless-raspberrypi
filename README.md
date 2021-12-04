@@ -85,6 +85,21 @@ sudo apt update
 ```
 sudo apt install python3 idle3
 ```
+
+Remove default Python2 so we can make Python3 default
+```
+sudo rm /usr/bin/python
+```
+
+Link Python3 dir to original python dir
+```
+sudo ln -s /usr/bin/python3 /usr/bin/python
+```
+
+Check if it worked!
+```
+python --version
+```
 <br/>
 
 ## Install Node.js and NPM using NVM
