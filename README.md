@@ -10,7 +10,7 @@
 * [Replace bash with zsh](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/replace-bash-with-zsh.md)  
 * [Install Python 3](https://github.com/wadhwakamal/headless-raspberrypi#install-python-3)  
 * [Install Node.js and NPM using NVM](https://github.com/wadhwakamal/headless-raspberrypi#install-nodejs-and-npm-using-nvm)  
-* [Install Speedtest-CLI](https://github.com/wadhwakamal/headless-raspberrypi/edit/main/README.md#install-speedtest-cli)
+* [Install Speedtest-CLI](https://github.com/wadhwakamal/headless-raspberrypi#install-speedtest-cli)
 * [Install Scripts](https://github.com/wadhwakamal/headless-raspberrypi/tree/main/scripts#scripts)  
 	* [YouTube Downloader](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-youtube-downloader)
 	* [Install RClone](https://github.com/wadhwakamal/headless-raspberrypi/blob/main/scripts#install-rclone)
