@@ -56,7 +56,7 @@ network={
 ## Remove Bloatware on the Raspberry Pi
 `# https://github.com/JoaquimLey/raspberrypi-headless-setup`
 ```
-sudo curl -fsSL https://raw.githubusercontent.com/JoaquimLey/raspberrypi-headless-setup/master/pi_bloat_remove.sh | sudo bash
+sudo curl -fsSL https://raw.githubusercontent.com/wadhwakamal/headless-raspberrypi/refs/heads/main/pi_bloat_remove.sh | sudo bash
 ```
 
 <br/>
